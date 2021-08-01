@@ -3,7 +3,11 @@ People tell or want to do various amazing projects that are related with Geoinfo
 
 1. Dr. Tri Dev Acharya has listed several projects on his #Mentor4Nepal (https://github.com/trydave/Mentor4Nepal) initiative githup page.
 2. Chief Survey Officer (CSO) of Survey Department (SD) has following ideas regarding Geoinformatics of Sindhupalchok:
-3. -
+  * Preparing tourist map of Sunkoshi corridor begginning from TatoPani to Saptakoshi.
+  * Preparing flood inundation map of Sunkoshi river. Flood Risk Zone of Sunkoshi in Sindhupalchok.
+  * Rate of excavation of sand and aggregate in past, present, and future at Sunkoshi river.
+  * Calculate/estimate the volume of construction materials obtained from any potential site along the bank of Sunkoshi river.
+  * MoU between tourism business of Sunkoshi and Kathmandu University (KU) geomatics engineers so that both side be beneficial to each other.
 4. -
 5. -
 6. -
@@ -11,6 +15,7 @@ People tell or want to do various amazing projects that are related with Geoinfo
 8. -
 9. -
 10. -
+11. -
 -
 -
 -
