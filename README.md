@@ -14,8 +14,10 @@ People tell or want to do various amazing projects that are related with Geoinfo
 7. -
 8. -
 9. -
-10. -
-11. -
+10. My Ideas:
+ * Prepare attracting visualization of Digital Earth Model (DEM) of terrain of Sindhupalchok (source: @simongerman600)
+ ![South Africa DEM](/C:/Users/Shankey/Desktop/delit)
+12. -
 -
 -
 -
