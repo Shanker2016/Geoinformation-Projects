@@ -8,7 +8,7 @@ People tell or want to do various amazing projects that are related with Geoinfo
   * Rate of excavation of sand and aggregate in past, present, and future at Sunkoshi river.
   * Calculate/estimate the volume of construction materials obtained from any potential site along the bank of Sunkoshi river.
   * MoU between tourism business of Sunkoshi and Kathmandu University (KU) geomatics engineers so that both side be beneficial to each other.
-4. -
+4. Survey Officer (SO), Geomatics Engineer kamal Shahi Thakuri's blog (https://kamalshahi.wordpress.com/).
 5. -
 6. -
 7. -
