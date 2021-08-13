@@ -8,6 +8,7 @@ People tell or want to do various amazing projects that are related with Geoinfo
   * Rate of excavation of sand and aggregate in past, present, and future at Sunkoshi river.
   * Calculate/estimate the volume of construction materials obtained from any potential site along the bank of Sunkoshi river.
   * MoU between tourism business of Sunkoshi and Kathmandu University (KU) geomatics engineers so that both side be beneficial to each other.
+  * Shuman Baral, could he select Sindhupalchok's major rivers as his MSc thesis site.
 4. Survey Officer (SO), Geomatics Engineer kamal Shahi's blog (https://kamalshahi.wordpress.com/).
 5. -
 6. -
@@ -15,8 +16,9 @@ People tell or want to do various amazing projects that are related with Geoinfo
 8. -
 9. -
 10. My Ideas:
- * Prepare attracting visualization of Digital Earth Model (DEM) of terrain of Sindhupalchok (source: @simongerman600)
+ * Prepare attracting visualization of Digital Earth Model (DEM) of terrain of Sindhupalchok (source: @simongerman600) 
  * Prepare attractive visualization of River Network of Sindhupalchok. (Source:https://hi.stamen.com/rivers-de92f8b462ac)
+ * Prepare landuse map of Sindhupalchok.
 12. -
 -
 -
