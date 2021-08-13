@@ -17,6 +17,7 @@ People tell or want to do various amazing projects that are related with Geoinfo
 9. -
 10. My Ideas:
  * Prepare attracting visualization of Digital Earth Model (DEM) of terrain of Sindhupalchok (source: @simongerman600) 
+     1.Get SRTM DEM from Sindhupalchok.
  * Prepare attractive visualization of River Network of Sindhupalchok. (Source:https://hi.stamen.com/rivers-de92f8b462ac)
  * Prepare landuse map of Sindhupalchok.
 12. -
