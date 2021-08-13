@@ -2,7 +2,13 @@
 People tell or want to do various amazing projects that are related with Geoinformatics. I tried to catch those brilliant ideas told by them and document here in this github repository.
 
 1. Dr. Tri Dev Acharya has listed several projects on his #Mentor4Nepal (https://github.com/trydave/Mentor4Nepal) initiative githup page.
-2. Chief Survey Officer (CSO) of Survey Department (SD) has following ideas regarding Geoinformatics of Sindhupalchok:
+   * Encroachment of forest/river by human activities: spatio-temporal quantification over years
+   * Identifying inundated agricultural areas during monsoon
+   * Assessment of past flood changes across Terai / Basin
+   * Water bodies and boundaries detection with SAR
+   * Visualizing the transportation inequality in Nepalese cities
+   * 
+3. Chief Survey Officer (CSO) of Survey Department (SD) has following ideas regarding Geoinformatics of Sindhupalchok:
   * Preparing tourist map of Sunkoshi corridor begginning from TatoPani to Saptakoshi.
   * Preparing flood inundation map of Sunkoshi river. Flood Risk Zone of Sunkoshi in Sindhupalchok.
   * Rate of excavation of sand and aggregate in past, present, and future at Sunkoshi river.
