@@ -28,8 +28,10 @@ People tell or want to do various amazing projects that are related with Geoinfo
  * Prepare landuse map of Sindhupalchok.
  * Prepare Google Earth, ZY3, and other open source satellite image of full coverage of Sindhupalchok.
 11. My Ideas 2:
-* Prepare Google Earth, ZY3, and other open source satellite image of full coverage of Nepal.
-* Prepare DEM map (SRTM, CartDEM, ASTER, ALOS) of full coverage of Nepal.
+ * Prepare Google Earth, ZY3, and other open source satellite image of full coverage of Nepal.
+ * Prepare DEM map (SRTM, CartDEM, ASTER, ALOS) of full coverage of Nepal.
+ * Prepare Geologic map of full coverage of Nepal.
+ * Prepare River network map of full coverage of Nepal.
 -
 -
 -
