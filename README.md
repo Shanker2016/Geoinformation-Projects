@@ -26,7 +26,10 @@ People tell or want to do various amazing projects that are related with Geoinfo
      * Get SRTM DEM of Sindhupalchok from Stallin.
  * Prepare attractive visualization of River Network of Sindhupalchok. (Source:https://hi.stamen.com/rivers-de92f8b462ac)
  * Prepare landuse map of Sindhupalchok.
-12. -
+ * Prepare Google Earth, ZY3, and other open source satellite image of full coverage of Sindhupalchok.
+11. My Ideas 2:
+* Prepare Google Earth, ZY3, and other open source satellite image of full coverage of Nepal.
+* Prepare DEM map (SRTM, CartDEM, ASTER, ALOS) of full coverage of Nepal.
 -
 -
 -
